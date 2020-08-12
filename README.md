@@ -8,9 +8,10 @@
  Don’t forget.<br>
 Always, somewhere, someone is fighting for you.<br/>
 As long as you remember her, you are not alone.<br/><br/>
- ![](https://visitor-badge.glitch.me/badge?page_id=sendya)
  </samp>
 </p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=sendya)
 
 <!--
 **sendya/sendya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
