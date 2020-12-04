@@ -1,7 +1,7 @@
 ### Hi there, I am Sendya 👋
 
 <a href="https://t.me/Tookochan" title="Sendya's Telegram" target="_blank" rel="nofollow"><img align="right" alt="Sendya Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a><a href="https://sendya.me/" title="Sendya's Blog" target="_blank" rel="nofollow"><img align="right" alt="Sendya's Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/micro-dot-blog.svg" /></a>
-<img align="right" alt="Pratik's Twitter" src="https://visitor-badge.glitch.me/badge?page_id=sendya" />
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=sendya" />
 
 
 - 🔭 I’m currently working on `one-sports` in China.
