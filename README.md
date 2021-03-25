@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on `BaishanCloud` in China.
 - ⚙️ I’m active in Ant Design Vue.
-- 👋 I'm blog site [sendya.me](https://sendya.me/)
+- 👋 Blog site [sendya.me](https://sendya.me/)
 
 <p align="center">
  😄
@@ -30,17 +30,3 @@ As long as you remember her, you are not alone.<br/><br/>
  </a>
 </details>
 
-<!--
-**sendya/sendya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
